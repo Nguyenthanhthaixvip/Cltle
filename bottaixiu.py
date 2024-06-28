@@ -14,7 +14,7 @@ import pytz # type: ignore
 
 # Khởi tạo bot với token của bạn
 
-TOKEN = '7037560951:AAHP_tJCKeeVQPAaytgIhzttLFftXMotueo'
+TOKEN = '7206321215:AAE6LpVHg59w-d8ESyQkorfUsAtwc2-6yvM'
 
 bot = telebot.TeleBot(TOKEN)
 
@@ -32,7 +32,7 @@ USED_CODES_FILE = 'used_codes.txt'
 
 # ID của admin
 
-ADMIN_ID = 5819321586  # Thay bằng ID của admin thực sự
+ADMIN_ID = 1313559109  # Thay bằng ID của admin thực sự
 
 
 
